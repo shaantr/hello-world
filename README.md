@@ -1,3 +1,4 @@
 # hello-world
 
-# Shaan Trika
+CSE 360 Hello World git demo
+Shaan Trika
